@@ -1,0 +1,11 @@
+[  {    "title": "Camiseta blanca",    "description": "Camiseta",    "price": 25.99,    "thumbnail": "no file",    "code": "001",    "stock": 10  },  
+{    "title": "Zapatillas deportivas",    "description": "Zapatillas deportivas negras",    "price": 49.99,    "thumbnail": "no file",    "code": "002",    "stock": 5  },  
+{    "title": "Sombrero de paja",    "description": "Sombrero de paja",    "price": 19.99,    "thumbnail": "no file",    "code": "003",    "stock": 20  },  
+{    "title": "Chaqueta de cuero",    "description": "Chaqueta de cuero marrón",    "price": 99.99,    "thumbnail": "no file",    "code": "004",    "stock": 3  },  
+{    "title": "Gafas de sol",    "description": "Gafas de sol negras",    "price": 12.99,    "thumbnail": "no file",    "code": "005",    "stock": 15  },
+{   "title": "Vestido de verano","description": "Vestido de algodón cómodo para el verano","price": 29.99,"thumbnail": "no file","code": "006","stock": 7},
+{   "title": "Zapatos de tacón","description": "Zapatos elegantes de tacón alto","price": 79.99,"thumbnail": "no file","code": "007","stock": 4},
+{   "title": "Pantalones de mezclilla","description": "Pantalones de mezclilla para uso diario","price": 39.99,"thumbnail": "no file","code": "008","stock": 12},
+{   "title": "Camisa de lino","description": "Camisa de lino suave y fresca para el verano","price": 24.99,"thumbnail": "no file","code": "009","stock": 9},
+{   "title": "Bolso de mano","description": "Bolso pequeño y elegante para salir de noche","price": 49.99,"thumbnail": "no file","code": "010","stock": 6}
+]
